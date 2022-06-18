@@ -87,7 +87,7 @@
                <version>2.22.1</version>
                <configuration>
                    <suiteXmlFiles>
-                       <suiteXmlFile>..\April22-SeleniumProject\src\test\resources\amazon-runner.xml</suiteXmlFile>
+                       <suiteXmlFile>D:\06.16.2022 Framework\FinalFrameWork\src\test\resources\ROG-runner.xml</suiteXmlFile>
                    </suiteXmlFiles>
                </configuration>
            </plugin>
