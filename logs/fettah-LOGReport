@@ -1,0 +1,877 @@
+01:36:31.376 Pages.HomePage -  Scroll Down To View success
+01:36:31.381 Pages.HomePage -  Scroll Down To View success
+01:36:31.583 Pages.HomePage - click on YotubeB button success
+01:43:27.837 Pages.HomePage -  Scroll Down To View success
+01:43:27.840 Pages.HomePage -  Scroll Down To View success
+01:43:28.498 Pages.HomePage - click on YotubeB button success
+02:38:41.672 Pages.HomePage - click on StorePopUp success
+02:38:44.389 Pages.HomePage - click on AirPod Items success
+02:38:51.768 Pages.HomePage - click on StorePopUp success
+02:38:53.231 Pages.HomePage - click on AppleWatch Items success
+02:40:33.113 Pages.HomePage - click on StorePopUp success
+02:40:35.555 Pages.HomePage - click on ipadItems button success
+02:40:47.305 Pages.HomePage - click on StorePopUp success
+02:40:50.239 Pages.HomePage - click on macbook button success
+02:41:01.348 Pages.HomePage - click on StorePopUp success
+02:56:32.511 microCenterPages.HomePage - click on StorePopUp success
+02:56:34.516 microCenterPages.HomePage - click on AirPod Items success
+02:56:40.956 microCenterPages.HomePage - click on StorePopUp success
+02:56:42.343 microCenterPages.HomePage - click on AppleWatch Items success
+02:56:46.386 microCenterPages.HomePage - click on StorePopUp success
+02:56:47.775 microCenterPages.HomePage - click on ipadItems button success
+03:09:53.616 microCenterPages.HomePage - click on StorePopUp success
+03:09:53.821 microCenterPages.HomePage - hoverOverService button success
+03:09:54.798 microCenterPages.HomePage - click on DataBackupandRecoveryServices button success
+03:09:58.881 microCenterPages.HomePage - click on StorePopUp success
+03:09:59.011 microCenterPages.HomePage - hoverOverService button success
+03:09:59.892 microCenterPages.HomePage - click on BatteriesReplacement button success
+03:10:02.316 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+03:10:06.426 microCenterPages.HomePage - click on StorePopUp success
+03:10:06.551 microCenterPages.HomePage - hoverOverService button success
+03:10:07.982 microCenterPages.HomePage - click on LaptopScreenReplacement button success
+03:10:14.452 microCenterPages.HomePage - click on StorePopUp success
+03:10:14.602 microCenterPages.HomePage - hoverOverService button success
+03:10:15.763 microCenterPages.HomePage - click on BatteriesReplacement button success
+03:10:18.230 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+03:10:21.844 microCenterPages.HomePage - click on StorePopUp success
+03:10:21.993 microCenterPages.HomePage - hoverOverService button success
+03:10:22.826 microCenterPages.HomePage - click on Virus_MalwareScan button success
+03:13:49.428 microCenterPages.HomePage - click on StorePopUp success
+03:13:50.122 microCenterPages.HomePage - type in search field and enter success
+03:13:50.158 microCenterPages.HomePage - type in search field and enter success
+03:13:50.189 microCenterPages.HomePage - type in search field and enter success
+03:13:50.224 microCenterPages.HomePage - type in search field and enter success
+03:13:50.253 microCenterPages.HomePage - type in search field and enter success
+03:14:20.645 microCenterPages.HomePage - click on StorePopUp success
+03:14:21.322 microCenterPages.HomePage - type in search field and enter success
+03:14:21.358 microCenterPages.HomePage - type in search field and enter success
+03:14:21.390 microCenterPages.HomePage - type in search field and enter success
+03:14:21.425 microCenterPages.HomePage - type in search field and enter success
+03:14:21.456 microCenterPages.HomePage - type in search field and enter success
+03:14:56.190 microCenterPages.HomePage - click on StorePopUp success
+03:14:56.810 microCenterPages.HomePage - type in search field and enter success
+03:14:56.844 microCenterPages.HomePage - type in search field and enter success
+03:14:56.877 microCenterPages.HomePage - type in search field and enter success
+03:14:56.910 microCenterPages.HomePage - type in search field and enter success
+03:14:56.949 microCenterPages.HomePage - type in search field and enter success
+03:15:34.790 microCenterPages.HomePage - click on StorePopUp success
+03:15:35.413 microCenterPages.HomePage - type in search field and enter success
+03:15:35.450 microCenterPages.HomePage - type in search field and enter success
+03:15:35.483 microCenterPages.HomePage - type in search field and enter success
+03:15:35.518 microCenterPages.HomePage - type in search field and enter success
+03:15:35.548 microCenterPages.HomePage - type in search field and enter success
+03:24:16.300 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:25:13.032 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:25:14.870 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as response doesn't contain WWW-Authenticate headers
+03:26:27.487 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:26:55.033 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:27:09.158 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:28:24.803 microCenterPages.HomePage - click on StorePopUp success
+03:28:25.025 microCenterPages.HomePage - hoverOverService button success
+03:28:26.059 microCenterPages.HomePage - click on DataBackupandRecoveryServices button success
+03:28:31.604 microCenterPages.HomePage - click on StorePopUp success
+03:28:31.917 microCenterPages.HomePage - hoverOverService button success
+03:28:32.805 microCenterPages.HomePage - click on BatteriesReplacement button success
+03:28:34.822 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+03:28:40.984 microCenterPages.HomePage - click on StorePopUp success
+03:28:41.309 microCenterPages.HomePage - hoverOverService button success
+03:28:42.978 microCenterPages.HomePage - click on LaptopScreenReplacement button success
+03:28:46.571 microCenterPages.HomePage - click on StorePopUp success
+03:28:46.950 microCenterPages.HomePage - hoverOverService button success
+03:28:47.503 microCenterPages.HomePage - click on BatteriesReplacement button success
+03:30:13.748 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:31:25.983 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:31:39.193 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+03:43:02.234 microCenterPages.HomePage - click on StorePopUp success
+03:43:02.754 microCenterPages.HomePage - hoverOverService button success
+03:43:03.681 microCenterPages.HomePage - click on DataBackupandRecoveryServices button success
+03:43:07.441 microCenterPages.HomePage - click on StorePopUp success
+03:43:07.791 microCenterPages.HomePage - hoverOverService button success
+03:43:08.407 microCenterPages.HomePage - click on BatteriesReplacement button success
+03:43:10.130 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+03:43:14.075 microCenterPages.HomePage - click on StorePopUp success
+03:43:14.200 microCenterPages.HomePage - hoverOverService button success
+03:43:15.547 microCenterPages.HomePage - click on LaptopScreenReplacement button success
+03:43:22.277 microCenterPages.HomePage - click on StorePopUp success
+03:43:22.510 microCenterPages.HomePage - hoverOverService button success
+03:43:23.229 microCenterPages.HomePage - click on BatteriesReplacement button success
+03:43:25.977 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+03:43:29.946 microCenterPages.HomePage - click on StorePopUp success
+03:43:30.170 microCenterPages.HomePage - hoverOverService button success
+03:43:30.960 microCenterPages.HomePage - click on Virus_MalwareScan button success
+03:59:31.987 o.a.n.h.i.Unauthorized401Interceptor - Can't handle 401 as auth was already performed
+04:03:14.764 microCenterPages.HomePage - click on StorePopUp success
+04:03:15.024 microCenterPages.HomePage - hoverOverService button success
+04:03:16.087 microCenterPages.HomePage - click on DataBackupandRecoveryServices button success
+04:04:09.088 microCenterPages.HomePage - click on StorePopUp success
+04:04:09.783 microCenterPages.HomePage - type in search field and enter success
+04:04:09.812 microCenterPages.HomePage - type in search field and enter success
+04:04:09.840 microCenterPages.HomePage - type in search field and enter success
+04:04:09.875 microCenterPages.HomePage - type in search field and enter success
+04:04:09.901 microCenterPages.HomePage - type in search field and enter success
+04:04:22.331 microCenterPages.HomePage - click on StorePopUp success
+04:04:23.034 microCenterPages.HomePage - type in search field and enter success
+04:04:23.069 microCenterPages.HomePage - type in search field and enter success
+04:04:23.097 microCenterPages.HomePage - type in search field and enter success
+04:04:23.129 microCenterPages.HomePage - type in search field and enter success
+04:04:23.165 microCenterPages.HomePage - type in search field and enter success
+04:07:04.096 microCenterPages.HomePage - click on StorePopUp success
+04:07:04.606 microCenterPages.HomePage - type in search field and enter success
+04:07:04.731 microCenterPages.HomePage - type in search field and enter success
+04:07:04.757 microCenterPages.HomePage - type in search field and enter success
+04:07:04.871 microCenterPages.HomePage - type in search field and enter success
+04:07:04.929 microCenterPages.HomePage - type in search field and enter success
+04:07:05.035 microCenterPages.HomePage - type in search field and enter success
+04:07:05.149 microCenterPages.HomePage - type in search field and enter success
+04:07:05.278 microCenterPages.HomePage - type in search field and enter success
+04:07:05.299 microCenterPages.HomePage - type in search field and enter success
+04:07:05.387 microCenterPages.HomePage - type in search field and enter success
+04:07:31.155 microCenterPages.HomePage - click on StorePopUp success
+04:07:31.721 microCenterPages.HomePage - type in search field and enter success
+04:07:31.839 microCenterPages.HomePage - type in search field and enter success
+04:07:33.918 microCenterPages.HomePage - type in search field and enter success
+04:07:34.007 microCenterPages.HomePage - type in search field and enter success
+04:07:36.033 microCenterPages.HomePage - type in search field and enter success
+04:07:36.138 microCenterPages.HomePage - type in search field and enter success
+04:07:38.203 microCenterPages.HomePage - type in search field and enter success
+04:07:38.291 microCenterPages.HomePage - type in search field and enter success
+04:07:40.351 microCenterPages.HomePage - type in search field and enter success
+04:07:40.428 microCenterPages.HomePage - type in search field and enter success
+04:21:00.550 microCenterPages.HomePage - click on StorePopUp success
+04:21:01.233 microCenterPages.HomePage - type in search field and enter success
+04:21:01.367 microCenterPages.HomePage - type in search field and enter success
+04:21:03.397 microCenterPages.HomePage - type in search field and enter success
+04:21:03.499 microCenterPages.HomePage - type in search field and enter success
+04:21:05.553 microCenterPages.HomePage - type in search field and enter success
+04:21:05.626 microCenterPages.HomePage - type in search field and enter success
+04:21:07.679 microCenterPages.HomePage - type in search field and enter success
+04:21:07.752 microCenterPages.HomePage - type in search field and enter success
+04:21:09.776 microCenterPages.HomePage - type in search field and enter success
+04:21:09.891 microCenterPages.HomePage - type in search field and enter success
+12:08:15.109 microCenterPages.HomePage - click on StorePopUp success
+12:08:17.371 microCenterPages.HomePage - click on AirPod Items success
+12:08:22.188 microCenterPages.HomePage - click on StorePopUp success
+12:08:24.090 microCenterPages.HomePage - click on AppleWatch Items success
+12:08:28.569 microCenterPages.HomePage - click on StorePopUp success
+12:08:30.170 microCenterPages.HomePage - click on ipadItems button success
+12:08:34.894 microCenterPages.HomePage - click on StorePopUp success
+12:08:36.498 microCenterPages.HomePage - click on macbook button success
+12:08:40.948 microCenterPages.HomePage - click on StorePopUp success
+12:08:45.764 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:08:47.784 microCenterPages.HomePage - click click On Acount button success
+12:08:47.890 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:08:47.958 microCenterPages.LoginPage - type in PassWordField success
+12:08:48.114 microCenterPages.LoginPage -  click on Sign button success
+12:08:50.031 base.CommonAPI - Screenshot captured
+12:08:54.377 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:08:56.475 microCenterPages.HomePage - click click On Acount button success
+12:08:56.561 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:08:56.632 microCenterPages.LoginPage - type in PassWordField success
+12:08:56.752 microCenterPages.LoginPage -  click on Sign button success
+12:09:00.319 base.CommonAPI - Screenshot captured
+12:09:04.665 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:09:06.568 microCenterPages.HomePage - click click On Acount button success
+12:09:06.645 microCenterPages.LoginPage - type in PassWordField success
+12:09:06.739 microCenterPages.LoginPage -  click on Sign button success
+12:09:07.268 base.CommonAPI - Screenshot captured
+12:09:12.956 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:09:16.093 microCenterPages.HomePage - click click On Acount button success
+12:09:16.184 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:09:16.300 microCenterPages.LoginPage -  click on Sign button success
+12:09:24.256 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:09:26.375 microCenterPages.HomePage - click click On Acount button success
+12:09:26.471 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:09:26.554 microCenterPages.LoginPage -  click on Sign button success
+12:09:27.133 base.CommonAPI - Screenshot captured
+12:09:31.214 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:09:33.376 microCenterPages.HomePage - click click On Acount button success
+12:09:34.388 microCenterPages.HomePage - click click On CreatAccount button success
+12:09:34.445 microCenterPages.CreatAcountPage - Type in FirstName Field success
+12:09:34.527 microCenterPages.CreatAcountPage - type in LastName field  success
+12:09:34.592 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+12:09:34.640 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+12:09:34.695 microCenterPages.CreatAcountPage - type in PassWord field  success
+12:09:34.755 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+12:09:34.821 microCenterPages.CreatAcountPage - click on clickCheckBox success
+12:09:34.892 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+12:09:46.481 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:09:48.777 microCenterPages.HomePage - click click On Acount button success
+12:09:49.763 microCenterPages.HomePage - click click On CreatAccount button success
+12:09:49.874 microCenterPages.CreatAcountPage - Type in FirstName Field success
+12:09:49.919 microCenterPages.CreatAcountPage - type in LastName field  success
+12:09:50.038 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+12:09:50.084 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+12:09:50.150 microCenterPages.CreatAcountPage - type in PassWord field  success
+12:09:50.206 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+12:09:50.276 microCenterPages.CreatAcountPage - click on clickCheckBox success
+12:09:50.339 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+12:09:57.881 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:10:00.074 microCenterPages.HomePage - click click On Acount button success
+12:10:01.073 microCenterPages.HomePage - click click On CreatAccount button success
+12:10:01.156 microCenterPages.CreatAcountPage - Type in FirstName Field success
+12:10:01.214 microCenterPages.CreatAcountPage - type in LastName field  success
+12:10:01.282 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+12:10:01.328 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+12:10:01.373 microCenterPages.CreatAcountPage - type in PassWord field  success
+12:10:01.430 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+12:10:01.502 microCenterPages.CreatAcountPage - click on clickCheckBox success
+12:10:01.564 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+12:10:05.613 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:10:07.674 microCenterPages.HomePage - click click On Acount button success
+12:10:08.562 microCenterPages.HomePage - click click On CreatAccount button success
+12:10:08.634 microCenterPages.CreatAcountPage - Type in FirstName Field success
+12:10:08.691 microCenterPages.CreatAcountPage - type in LastName field  success
+12:10:08.745 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+12:10:08.785 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+12:10:08.837 microCenterPages.CreatAcountPage - type in PassWord field  success
+12:10:08.889 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+12:10:08.953 microCenterPages.CreatAcountPage - click on clickCheckBox success
+12:10:09.016 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+12:10:16.815 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:10:19.290 microCenterPages.HomePage - click click On Acount button success
+12:10:20.228 microCenterPages.HomePage - click click On CreatAccount button success
+12:10:20.349 microCenterPages.CreatAcountPage - Type in FirstName Field success
+12:10:20.407 microCenterPages.CreatAcountPage - type in LastName field  success
+12:10:20.452 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+12:10:20.501 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+12:10:20.558 microCenterPages.CreatAcountPage - type in PassWord field  success
+12:10:20.621 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+12:10:20.690 microCenterPages.CreatAcountPage - click on clickCheckBox success
+12:10:20.755 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+12:10:28.167 microCenterPages.HomePage - hoverOver Products button success
+12:10:28.224 microCenterPages.HomePage - click on StorePopUp success
+12:10:28.299 microCenterPages.HomePage - click on TopDeals Items success
+12:10:29.397 microCenterPages.HomePage - click on Keyboards success
+12:10:34.063 microCenterPages.HomePage - hoverOver Products button success
+12:10:34.123 microCenterPages.HomePage - click on StorePopUp success
+12:10:34.186 microCenterPages.HomePage - click on TopDeals Items success
+12:10:38.606 microCenterPages.HomePage - click on Keyboards success
+12:10:42.975 microCenterPages.HomePage - hoverOver Products button success
+12:10:43.035 microCenterPages.HomePage - click on StorePopUp success
+12:10:43.120 microCenterPages.HomePage - click on TopDeals Items success
+12:10:44.034 microCenterPages.HomePage - click on search button success
+12:10:48.090 microCenterPages.HomePage - hoverOver Products button success
+12:10:48.226 microCenterPages.HomePage - click on StorePopUp success
+12:10:48.296 microCenterPages.HomePage - click on TopDeals Items success
+12:10:49.171 microCenterPages.HomePage - click on Keyboards success
+12:10:53.167 microCenterPages.HomePage - click on StorePopUp success
+12:10:53.297 microCenterPages.HomePage - hoverOver Products button success
+12:10:53.394 microCenterPages.HomePage - click on OnBrands button success
+12:10:57.458 microCenterPages.HomePage - click on StorePopUp success
+12:10:57.598 microCenterPages.HomePage - hoverOver Products button success
+12:10:57.680 microCenterPages.HomePage - click on OnBrands button success
+12:10:58.996 microCenterPages.HomePage - click on AMD Brand success
+12:11:03.219 microCenterPages.HomePage - click on StorePopUp success
+12:11:03.389 microCenterPages.HomePage - hoverOver Products button success
+12:11:03.453 microCenterPages.HomePage - click on OnBrands button success
+12:11:04.434 microCenterPages.HomePage - click on Acer Brand success
+12:11:08.811 microCenterPages.HomePage - click on StorePopUp success
+12:11:09.091 microCenterPages.HomePage - hoverOver Products button success
+12:11:09.146 microCenterPages.HomePage - click on OnBrands button success
+12:11:09.968 microCenterPages.HomePage - click on Brother Brand success
+12:11:14.110 microCenterPages.HomePage - click on StorePopUp success
+12:11:14.266 microCenterPages.HomePage - hoverOver Products button success
+12:11:14.384 microCenterPages.HomePage - click on OnBrands button success
+12:11:16.102 microCenterPages.HomePage - click on Invidia Brand success
+12:11:16.685 base.CommonAPI - Screenshot captured
+12:11:20.925 microCenterPages.HomePage - click on StorePopUp success
+12:11:21.098 microCenterPages.HomePage - hoverOver Products button success
+12:11:21.147 microCenterPages.HomePage - click on OnBrands button success
+12:11:21.983 microCenterPages.HomePage - click on Samsung Brand success
+12:11:25.858 microCenterPages.HomePage - click on StorePopUp success
+12:11:25.999 microCenterPages.HomePage - hoverOver Products button success
+12:11:26.103 microCenterPages.HomePage - click on OnBrands button success
+12:11:27.007 microCenterPages.HomePage - click on dell Brand success
+12:11:31.203 microCenterPages.HomePage - click on StorePopUp success
+12:11:32.188 microCenterPages.HomePage - click on community button success
+12:11:32.294 microCenterPages.communityPage - click on DarkMode button success
+12:11:35.867 microCenterPages.HomePage -  Scroll Down To View success
+12:11:35.867 microCenterPages.HomePage -  Scroll Down To View success
+12:11:36.895 microCenterPages.HomePage - click on MakerProductsItems success
+12:11:40.681 microCenterPages.HomePage -  Scroll Down To View success
+12:11:40.681 microCenterPages.HomePage -  Scroll Down To View success
+12:11:42.024 microCenterPages.HomePage - click on MemoryItem success
+12:11:45.990 microCenterPages.HomePage -  Scroll Down To View success
+12:11:45.990 microCenterPages.HomePage -  Scroll Down To View success
+12:11:48.290 microCenterPages.HomePage - click on PowerSupplies Item success
+12:11:53.624 microCenterPages.HomePage -  Scroll Down To View success
+12:11:53.624 microCenterPages.HomePage -  Scroll Down To View success
+12:11:55.230 microCenterPages.HomePage - click on PrinterItem success
+12:12:00.357 microCenterPages.HomePage -  Scroll Down To View success
+12:12:00.357 microCenterPages.HomePage - scroll To View instagram button success
+12:12:00.496 microCenterPages.HomePage - click on instagramBtn button success
+12:12:05.883 microCenterPages.HomePage -  Scroll Down To View success
+12:12:05.883 microCenterPages.HomePage - scroll To View facebook button success
+12:12:06.032 microCenterPages.HomePage - click on instagramBtn button success
+12:12:06.095 m.MicroCenterFacebookPage -  click on facebook login button success
+12:12:09.921 microCenterPages.HomePage -  Scroll Down To View success
+12:12:09.921 microCenterPages.HomePage -  Scroll Down To View twitter button success
+12:12:10.035 microCenterPages.HomePage - click on twitterB button success
+12:12:24.622 microCenterPages.HomePage -  Scroll Down To View success
+12:12:24.623 microCenterPages.HomePage -  Scroll Down To View success
+12:12:24.731 microCenterPages.HomePage - click on YotubeB button success
+12:12:28.425 microCenterPages.HomePage - click on StorePopUp success
+12:12:28.932 microCenterPages.HomePage - hoverOver Products button success
+12:12:28.985 microCenterPages.HomePage - click on Networking button success
+12:12:30.109 microCenterPages.HomePage - click on BroadBandModemsItems button success
+12:12:33.937 microCenterPages.HomePage - click on StorePopUp success
+12:12:34.151 microCenterPages.HomePage - hoverOver Products button success
+12:12:34.227 microCenterPages.HomePage - click on Networking button success
+12:12:36.163 microCenterPages.HomePage - click on NasEnclosuersItems button success
+12:12:42.688 microCenterPages.HomePage - click on StorePopUp success
+12:12:42.902 microCenterPages.HomePage - hoverOver Products button success
+12:12:42.967 microCenterPages.HomePage - click on Networking button success
+12:12:43.757 microCenterPages.HomePage - click on AllNetworkingProducts button success
+12:12:47.712 microCenterPages.HomePage - click on StorePopUp success
+12:12:47.872 microCenterPages.HomePage - hoverOver Products button success
+12:12:47.941 microCenterPages.HomePage - click on Networking button success
+12:12:49.787 base.CommonAPI - Screenshot captured
+12:12:53.962 microCenterPages.HomePage - click on StorePopUp success
+12:12:54.145 microCenterPages.HomePage - hoverOver Products button success
+12:12:54.218 microCenterPages.HomePage - click on Networking button success
+12:12:57.257 microCenterPages.HomePage - click on PowerOverEthernet button success
+12:13:01.539 microCenterPages.HomePage - click on StorePopUp success
+12:13:01.712 microCenterPages.HomePage - hoverOver Products button success
+12:13:01.767 microCenterPages.HomePage - click on Networking button success
+12:13:03.000 microCenterPages.HomePage - click on Servers button success
+12:13:07.288 microCenterPages.HomePage - hoverOver Products button success
+12:13:07.445 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:08.662 microCenterPages.HomePage - click on AccessoriesItems success
+12:13:13.380 microCenterPages.HomePage - hoverOver Products button success
+12:13:13.639 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:14.996 microCenterPages.HomePage - click on ComputerPartsCloseoutItems success
+12:13:19.787 microCenterPages.HomePage - hoverOver Products button success
+12:13:20.006 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:21.868 microCenterPages.HomePage - click on ElectronicsItems success
+12:13:26.118 microCenterPages.HomePage - hoverOver Products button success
+12:13:26.303 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:27.427 microCenterPages.HomePage - click on GamingItems button success
+12:13:32.428 microCenterPages.HomePage - hoverOver Products button success
+12:13:32.567 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:34.580 microCenterPages.HomePage - click on ViewAllCloseouts button success
+12:13:38.615 microCenterPages.HomePage - click on StorePopUp success
+12:13:38.829 microCenterPages.HomePage - hoverOver Products button success
+12:13:38.972 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:40.504 microCenterPages.HomePage - click on AppleOpenBoxItems button success
+12:13:41.023 base.CommonAPI - Screenshot captured
+12:13:45.034 microCenterPages.HomePage - click on StorePopUp success
+12:13:45.272 microCenterPages.HomePage - hoverOver Products button success
+12:13:45.453 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:47.230 microCenterPages.HomePage - click on ComputerOpenBoxItems button success
+12:13:47.685 base.CommonAPI - Screenshot captured
+12:13:51.537 microCenterPages.HomePage - click on StorePopUp success
+12:13:52.113 microCenterPages.HomePage - hoverOver Products button success
+12:13:52.251 microCenterPages.HomePage -  hoverOver Clearance button success
+12:13:53.937 microCenterPages.HomePage - click on NetworkingOpenBoxItems button success
+12:13:54.470 base.CommonAPI - Screenshot captured
+12:14:00.485 microCenterPages.HomePage - click on StorePopUp success
+12:14:00.697 microCenterPages.HomePage - hoverOver Products button success
+12:14:00.835 microCenterPages.HomePage -  hoverOver Clearance button success
+12:14:01.504 microCenterPages.HomePage - click on ViewAllOpenBoxItems button success
+12:14:05.890 microCenterPages.HomePage - click on StorePopUp success
+12:14:06.603 microCenterPages.HomePage - type in search field and enter success
+12:14:06.677 microCenterPages.HomePage - type in search field and enter success
+12:14:08.704 microCenterPages.HomePage - type in search field and enter success
+12:14:08.746 microCenterPages.HomePage - type in search field and enter success
+12:14:10.770 microCenterPages.HomePage - type in search field and enter success
+12:14:10.808 microCenterPages.HomePage - type in search field and enter success
+12:14:12.839 microCenterPages.HomePage - type in search field and enter success
+12:14:12.886 microCenterPages.HomePage - type in search field and enter success
+12:14:14.906 microCenterPages.HomePage - type in search field and enter success
+12:14:14.953 microCenterPages.HomePage - type in search field and enter success
+12:14:20.771 microCenterPages.HomePage - click on StorePopUp success
+12:14:20.953 microCenterPages.HomePage - hoverOverService button success
+12:14:21.981 microCenterPages.HomePage - click on DataBackupandRecoveryServices button success
+12:14:25.877 microCenterPages.HomePage - click on StorePopUp success
+12:14:26.064 microCenterPages.HomePage - hoverOverService button success
+12:14:27.107 microCenterPages.HomePage - click on BatteriesReplacement button success
+12:14:29.879 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+12:14:34.567 microCenterPages.HomePage - click on StorePopUp success
+12:14:34.745 microCenterPages.HomePage - hoverOverService button success
+12:14:36.370 microCenterPages.HomePage - click on LaptopScreenReplacement button success
+12:14:40.683 microCenterPages.HomePage - click on StorePopUp success
+12:14:40.830 microCenterPages.HomePage - hoverOverService button success
+12:14:41.740 microCenterPages.HomePage - click on BatteriesReplacement button success
+12:14:44.603 microCenterPages.ServiceRepairPage -  click on OnsearchBar button success
+12:14:49.052 microCenterPages.HomePage - click on StorePopUp success
+12:14:49.289 microCenterPages.HomePage - hoverOverService button success
+12:14:50.110 microCenterPages.HomePage - click on Virus_MalwareScan button success
+12:14:54.767 microCenterPages.HomePage -  Scroll Down To View success
+12:14:54.768 microCenterPages.HomePage - scrollToViewStoreLocations button success
+12:14:55.524 microCenterPages.HomePage - click on StoreLocations button success
+12:14:57.875 base.CommonAPI - Screenshot captured
+12:15:02.134 microCenterPages.HomePage -  Scroll Down To View success
+12:15:02.134 microCenterPages.HomePage - scrollToViewStoreLocations button success
+12:15:02.931 microCenterPages.HomePage - click on StoreLocations button success
+12:15:07.341 microCenterPages.HomePage -  Scroll Down To View success
+12:15:07.341 microCenterPages.HomePage - scrollToViewStoreLocations button success
+12:15:08.126 microCenterPages.HomePage - click on StoreLocations button success
+12:15:10.298 base.CommonAPI - Screenshot captured
+12:15:14.066 microCenterPages.HomePage -  Scroll Down To View success
+12:15:14.066 microCenterPages.HomePage - scrollToViewStoreLocations button success
+12:15:14.845 microCenterPages.HomePage - click on StoreLocations button success
+12:15:17.074 base.CommonAPI - Screenshot captured
+12:15:20.917 microCenterPages.HomePage -  Scroll Down To View success
+12:15:20.918 microCenterPages.HomePage - scroll To View scrollToViewCareers button success
+12:15:23.626 microCenterPages.HomePage - click on career button success
+12:15:25.697 base.CommonAPI - Screenshot captured
+12:15:30.013 microCenterPages.HomePage -  Scroll Down To View success
+12:15:30.013 microCenterPages.HomePage - scroll To View scrollToViewCareers button success
+12:15:32.291 microCenterPages.HomePage - click on career button success
+12:15:34.769 base.CommonAPI - Screenshot captured
+12:15:38.924 microCenterPages.HomePage -  Scroll Down To View success
+12:15:38.925 microCenterPages.HomePage - scroll To View scrollToViewCareers button success
+12:15:41.613 microCenterPages.HomePage - click on career button success
+12:15:43.662 base.CommonAPI - Screenshot captured
+12:15:47.347 microCenterPages.HomePage -  Scroll Down To View success
+12:15:47.347 microCenterPages.HomePage - scroll To View scrollToViewCareers button success
+12:15:49.860 microCenterPages.HomePage - click on career button success
+12:15:51.990 base.CommonAPI - Screenshot captured
+12:15:57.121 microCenterPages.HomePage - hoverOverPcPartsItems button success
+12:15:58.307 microCenterPages.HomePage - click on nAir_WaterCoolingItems success
+12:16:02.726 microCenterPages.HomePage - hoverOverPcPartsItems button success
+12:16:04.319 microCenterPages.HomePage - click on ComputerCasesItems success
+12:16:08.579 microCenterPages.HomePage - hoverOverPcPartsItems button success
+12:16:12.877 microCenterPages.HomePage - click on Drives_StorageItems success
+12:16:16.777 microCenterPages.HomePage - hoverOverPcPartsItems button success
+12:16:23.765 microCenterPages.HomePage - click on GraphicsCardsItems success
+12:16:30.599 microCenterPages.HomePage - hoverOverPcPartsItems button success
+12:16:34.367 microCenterPages.HomePage - click on ProcessorsItems success
+12:16:38.493 microCenterPages.HomePage - click on StorePopUp success
+12:16:49.342 base.CommonAPI - Screenshot captured
+12:16:53.325 microCenterPages.HomePage - click on StorePopUp success
+12:16:53.463 microCenterPages.HomePage - hoverOver Comuters button success
+12:16:55.921 microCenterPages.HomePage - click on OnDesktops button success
+12:16:57.265 microCenterPages.ComputerItemsPage - click on All_in_OneDesktops button success
+12:17:01.502 microCenterPages.HomePage - click on StorePopUp success
+12:17:01.733 microCenterPages.HomePage - hoverOver Comuters button success
+12:17:03.707 microCenterPages.HomePage - click on Laptops button success
+12:17:05.061 microCenterPages.ComputerItemsPage - click on BusinessLaptops button success
+12:17:09.230 microCenterPages.HomePage - click on StorePopUp success
+12:17:09.379 microCenterPages.HomePage - hoverOver Comuters button success
+12:17:11.165 microCenterPages.HomePage - click on Laptops button success
+12:17:12.467 microCenterPages.ComputerItemsPage - click on ChromebooksLaptops button success
+12:17:16.771 microCenterPages.HomePage - click on StorePopUp success
+12:17:16.914 microCenterPages.HomePage - hoverOver Comuters button success
+12:17:18.180 microCenterPages.HomePage - click on OnDesktops button success
+12:17:22.188 microCenterPages.HomePage - click on StorePopUp success
+12:17:22.570 microCenterPages.HomePage - hoverOver Comuters button success
+12:17:23.667 microCenterPages.HomePage - click on Laptops button success
+12:17:24.957 microCenterPages.ComputerItemsPage - click on GamingLaptops button success
+12:17:28.808 microCenterPages.HomePage - click on StorePopUp success
+12:17:28.991 microCenterPages.HomePage - hoverOver Comuters button success
+12:17:31.457 microCenterPages.HomePage - click on Laptops button success
+12:17:35.850 microCenterPages.HomePage - click on StorePopUp success
+12:17:36.092 microCenterPages.HomePage - hoverOver Comuters button success
+12:17:37.199 microCenterPages.HomePage - click on OnDesktops button success
+12:17:37.317 microCenterPages.ComputerItemsPage - click on PC_Desktops success
+12:35:15.148 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:35:17.534 microCenterPages.HomePage - click click On Acount button success
+12:35:17.629 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:35:17.709 microCenterPages.LoginPage - type in PassWordField success
+12:35:17.853 microCenterPages.LoginPage -  click on Sign button success
+12:35:20.059 base.CommonAPI - Screenshot captured
+12:35:24.417 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:35:26.551 microCenterPages.HomePage - click click On Acount button success
+12:35:26.668 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:35:26.749 microCenterPages.LoginPage - type in PassWordField success
+12:35:26.862 microCenterPages.LoginPage -  click on Sign button success
+12:35:40.524 base.CommonAPI - Screenshot captured
+12:35:46.019 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:35:48.089 microCenterPages.HomePage - click click On Acount button success
+12:35:48.176 microCenterPages.LoginPage - type in PassWordField success
+12:35:48.259 microCenterPages.LoginPage -  click on Sign button success
+12:35:48.820 base.CommonAPI - Screenshot captured
+12:35:52.828 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:35:55.060 microCenterPages.HomePage - click click On Acount button success
+12:35:55.160 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:35:55.292 microCenterPages.LoginPage -  click on Sign button success
+12:36:02.451 microCenterPages.HomePage - click click On hoverOverLoging button success
+12:36:04.479 microCenterPages.HomePage - click click On Acount button success
+12:36:04.563 microCenterPages.LoginPage - type in EmailAdressfield  success
+12:36:04.652 microCenterPages.LoginPage -  click on Sign button success
+12:36:05.197 base.CommonAPI - Screenshot captured
+13:18:22.789 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:18:24.942 microCenterPages.HomePage - click click On Acount button success
+13:18:25.049 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:18:25.163 microCenterPages.LoginPage -  click on Sign button success
+13:19:00.356 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:19:02.767 microCenterPages.HomePage - click click On Acount button success
+13:19:02.854 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:19:02.937 microCenterPages.LoginPage - type in PassWordField success
+13:19:03.072 microCenterPages.LoginPage -  click on Sign button success
+13:19:17.057 base.CommonAPI - Screenshot captured
+13:19:27.978 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:19:30.250 microCenterPages.HomePage - click click On Acount button success
+13:19:30.353 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:19:30.431 microCenterPages.LoginPage - type in PassWordField success
+13:19:30.566 microCenterPages.LoginPage -  click on Sign button success
+13:19:44.302 base.CommonAPI - Screenshot captured
+13:20:20.156 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:20:24.107 microCenterPages.HomePage - click click On Acount button success
+13:20:24.205 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:20:24.298 microCenterPages.LoginPage - type in PassWordField success
+13:20:24.458 microCenterPages.LoginPage -  click on Sign button success
+13:20:28.314 base.CommonAPI - Screenshot captured
+13:20:32.754 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:20:34.913 microCenterPages.HomePage - click click On Acount button success
+13:20:35.006 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:20:35.155 microCenterPages.LoginPage -  click on Sign button success
+13:24:44.533 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:24:46.577 microCenterPages.HomePage - click click On Acount button success
+13:24:46.674 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:24:46.759 microCenterPages.LoginPage - type in PassWordField success
+13:24:46.918 microCenterPages.LoginPage -  click on Sign button success
+13:24:50.684 base.CommonAPI - Screenshot captured
+13:24:55.638 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:24:57.681 microCenterPages.HomePage - click click On Acount button success
+13:24:57.773 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:24:57.914 microCenterPages.LoginPage -  click on Sign button success
+13:26:57.505 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:26:59.826 microCenterPages.HomePage - click click On Acount button success
+13:26:59.920 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:27:00.001 microCenterPages.LoginPage - type in PassWordField success
+13:27:00.122 microCenterPages.LoginPage -  click on Sign button success
+13:27:03.955 base.CommonAPI - Screenshot captured
+13:27:08.721 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:27:11.080 microCenterPages.HomePage - click click On Acount button success
+13:27:11.175 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:27:11.295 microCenterPages.LoginPage -  click on Sign button success
+13:28:48.708 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:28:50.921 microCenterPages.HomePage - click click On Acount button success
+13:28:51.017 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:28:51.097 microCenterPages.LoginPage - type in PassWordField success
+13:28:51.227 microCenterPages.LoginPage -  click on Sign button success
+13:29:05.252 base.CommonAPI - Screenshot captured
+13:29:10.062 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:29:12.213 microCenterPages.HomePage - click click On Acount button success
+13:29:12.305 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:29:12.446 microCenterPages.LoginPage -  click on Sign button success
+13:29:46.459 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:29:48.539 microCenterPages.HomePage - click click On Acount button success
+13:29:48.631 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:29:48.737 microCenterPages.LoginPage - type in PassWordField success
+13:29:48.856 microCenterPages.LoginPage -  click on Sign button success
+13:30:02.926 base.CommonAPI - Screenshot captured
+13:30:07.425 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:30:12.082 microCenterPages.HomePage - click click On Acount button success
+13:30:12.182 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:30:12.309 microCenterPages.LoginPage -  click on Sign button success
+13:36:53.241 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:36:55.466 microCenterPages.HomePage - click click On Acount button success
+13:36:55.573 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:36:55.651 microCenterPages.LoginPage - type in PassWordField success
+13:36:55.768 microCenterPages.LoginPage -  click on Sign button success
+13:37:06.987 base.CommonAPI - Screenshot captured
+13:37:20.271 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:37:22.706 microCenterPages.HomePage - click click On Acount button success
+13:37:22.833 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:37:22.959 microCenterPages.LoginPage - type in PassWordField success
+13:37:23.135 microCenterPages.LoginPage -  click on Sign button success
+13:37:25.677 base.CommonAPI - Screenshot captured
+13:38:17.073 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:38:19.170 microCenterPages.HomePage - click click On Acount button success
+13:38:19.287 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:38:19.386 microCenterPages.LoginPage - type in PassWordField success
+13:38:19.500 microCenterPages.LoginPage -  click on Sign button success
+13:38:30.602 base.CommonAPI - Screenshot captured
+13:39:07.052 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:39:09.505 microCenterPages.HomePage - click click On Acount button success
+13:39:09.603 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:39:09.730 microCenterPages.LoginPage - type in PassWordField success
+13:39:09.927 microCenterPages.LoginPage -  click on Sign button success
+13:39:21.164 base.CommonAPI - Screenshot captured
+13:39:33.244 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:39:35.395 microCenterPages.HomePage - click click On Acount button success
+13:39:35.498 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:39:35.579 microCenterPages.LoginPage - type in PassWordField success
+13:39:35.698 microCenterPages.LoginPage -  click on Sign button success
+13:39:46.772 base.CommonAPI - Screenshot captured
+13:40:22.042 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:40:24.519 microCenterPages.HomePage - click click On Acount button success
+13:40:24.649 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:40:24.757 microCenterPages.LoginPage - type in PassWordField success
+13:40:24.943 microCenterPages.LoginPage -  click on Sign button success
+13:40:36.351 base.CommonAPI - Screenshot captured
+13:41:38.847 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:41:47.299 microCenterPages.HomePage - click click On Acount button success
+13:41:57.756 microCenterPages.HomePage - click click On hoverOverLoging button success
+13:41:59.918 microCenterPages.HomePage - click click On Acount button success
+13:42:00.016 microCenterPages.LoginPage - type in EmailAdressfield  success
+13:42:00.126 microCenterPages.LoginPage - type in PassWordField success
+13:42:00.272 microCenterPages.LoginPage -  click on Sign button success
+13:42:11.333 base.CommonAPI - Screenshot captured
+14:08:54.433 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:08:56.404 microCenterPages.HomePage - click click On Acount button success
+14:08:57.398 microCenterPages.HomePage - click click On CreatAccount button success
+14:08:57.447 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:08:57.580 microCenterPages.CreatAcountPage - type in LastName field  success
+14:08:57.664 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:08:57.745 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:08:57.827 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:08:57.897 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:08:57.997 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:08:58.058 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:09:05.819 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:09:07.799 microCenterPages.HomePage - click click On Acount button success
+14:09:08.798 microCenterPages.HomePage - click click On CreatAccount button success
+14:09:08.925 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:09:08.993 microCenterPages.CreatAcountPage - type in LastName field  success
+14:09:09.051 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:09:09.120 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:09:09.194 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:09:09.261 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:09:09.358 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:09:09.415 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:09:09.959 base.CommonAPI - Screenshot captured
+14:09:58.637 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:10:00.424 microCenterPages.HomePage - click click On Acount button success
+14:10:01.443 microCenterPages.HomePage - click click On CreatAccount button success
+14:10:01.580 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:10:01.661 microCenterPages.CreatAcountPage - type in LastName field  success
+14:10:01.811 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:10:01.896 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:10:01.965 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:10:02.037 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:10:02.135 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:10:02.196 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:10:21.304 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:10:23.444 microCenterPages.HomePage - click click On Acount button success
+14:10:24.342 microCenterPages.HomePage - click click On CreatAccount button success
+14:10:24.458 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:10:24.512 microCenterPages.CreatAcountPage - type in LastName field  success
+14:10:24.580 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:10:24.641 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:10:24.704 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:10:24.759 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:10:24.842 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:10:24.898 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:11:03.971 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:11:11.855 microCenterPages.HomePage - click click On Acount button success
+14:11:31.546 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:11:33.726 microCenterPages.HomePage - click click On Acount button success
+14:11:34.838 microCenterPages.HomePage - click click On CreatAccount button success
+14:11:35.012 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:11:35.085 microCenterPages.CreatAcountPage - type in LastName field  success
+14:11:35.186 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:11:35.262 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:11:35.344 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:11:35.413 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:11:35.524 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:11:35.605 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:13:35.126 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:13:37.813 microCenterPages.HomePage - click click On Acount button success
+14:13:39.143 microCenterPages.HomePage - click click On CreatAccount button success
+14:13:39.316 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:13:39.382 microCenterPages.CreatAcountPage - type in LastName field  success
+14:13:39.553 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:13:39.660 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:13:39.776 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:13:39.871 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:13:39.994 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:13:40.068 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:13:41.068 base.CommonAPI - Screenshot captured
+14:14:19.002 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:14:21.398 microCenterPages.HomePage - click click On Acount button success
+14:14:22.524 microCenterPages.HomePage - click click On CreatAccount button success
+14:14:22.801 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:14:22.870 microCenterPages.CreatAcountPage - type in LastName field  success
+14:14:23.025 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:14:23.113 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:14:23.216 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:14:23.307 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:14:23.422 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:14:23.505 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:15:18.953 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:15:21.128 microCenterPages.HomePage - click click On Acount button success
+14:15:22.393 microCenterPages.HomePage - click click On CreatAccount button success
+14:15:22.513 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:15:22.700 microCenterPages.CreatAcountPage - type in LastName field  success
+14:15:22.846 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:15:22.934 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:15:23.040 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:15:23.150 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:15:23.281 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:15:23.358 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:15:32.055 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:15:34.560 microCenterPages.HomePage - click click On Acount button success
+14:15:36.190 microCenterPages.HomePage - click click On CreatAccount button success
+14:15:36.397 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:15:36.465 microCenterPages.CreatAcountPage - type in LastName field  success
+14:15:36.639 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:15:36.725 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:15:36.818 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:15:36.898 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:15:37.003 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:15:37.086 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:15:42.876 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:15:45.035 microCenterPages.HomePage - click click On Acount button success
+14:15:46.140 microCenterPages.HomePage - click click On CreatAccount button success
+14:15:46.290 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:15:46.380 microCenterPages.CreatAcountPage - type in LastName field  success
+14:15:46.535 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:15:46.612 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:15:46.675 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:15:46.784 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:15:46.913 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:15:46.985 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:15:51.806 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:15:54.252 microCenterPages.HomePage - click click On Acount button success
+14:15:55.559 microCenterPages.HomePage - click click On CreatAccount button success
+14:15:55.841 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:15:55.909 microCenterPages.CreatAcountPage - type in LastName field  success
+14:15:56.081 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:15:56.168 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:15:56.271 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:15:56.380 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:15:56.502 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:15:56.617 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:17:45.241 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:17:47.840 microCenterPages.HomePage - click click On Acount button success
+14:17:49.582 microCenterPages.HomePage - click click On CreatAccount button success
+14:17:49.852 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:17:49.939 microCenterPages.CreatAcountPage - type in LastName field  success
+14:17:50.069 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:17:50.256 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:17:50.362 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:17:50.457 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:17:50.591 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:17:50.680 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:19:03.143 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:19:05.677 microCenterPages.HomePage - click click On Acount button success
+14:19:07.248 microCenterPages.HomePage - click click On CreatAccount button success
+14:19:07.440 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:19:07.539 microCenterPages.CreatAcountPage - type in LastName field  success
+14:19:07.655 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:19:07.755 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:19:07.862 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:19:07.957 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:19:08.106 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:19:08.225 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:20:44.417 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:20:47.475 microCenterPages.HomePage - click click On Acount button success
+14:20:49.377 microCenterPages.HomePage - click click On CreatAccount button success
+14:20:49.591 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:20:49.696 microCenterPages.CreatAcountPage - type in LastName field  success
+14:20:49.877 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:20:50.013 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:20:50.143 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:20:50.283 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:20:50.447 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:20:50.570 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:23:43.395 microCenterPages.HomePage - click click On hoverOverLoging button success
+14:23:48.362 microCenterPages.HomePage - click click On Acount button success
+14:23:50.680 microCenterPages.HomePage - click click On CreatAccount button success
+14:23:51.502 microCenterPages.CreatAcountPage - Type in FirstName Field success
+14:23:51.803 microCenterPages.CreatAcountPage - type in LastName field  success
+14:23:52.184 microCenterPages.CreatAcountPage - type in EmailAdress field  success
+14:23:52.379 microCenterPages.CreatAcountPage - type in MobilePhone field  success
+14:23:52.632 microCenterPages.CreatAcountPage - type in PassWord field  success
+14:23:52.818 microCenterPages.CreatAcountPage - type in ConfirmPassWord field  success
+14:23:53.103 microCenterPages.CreatAcountPage - click on clickCheckBox success
+14:23:53.355 microCenterPages.CreatAcountPage - click on creatMyProfile button success
+14:23:56.028 base.CommonAPI - Screenshot captured
+14:25:39.713 microCenterPages.HomePage - click on StorePopUp success
+14:25:39.980 microCenterPages.HomePage - hoverOver Products button success
+14:25:40.067 microCenterPages.HomePage - click on OnBrands button success
+14:25:47.641 microCenterPages.HomePage - click on StorePopUp success
+14:25:47.885 microCenterPages.HomePage - hoverOver Products button success
+14:25:47.987 microCenterPages.HomePage - click on OnBrands button success
+14:25:49.777 microCenterPages.HomePage - click on AMD Brand success
+14:25:56.658 microCenterPages.HomePage - click on StorePopUp success
+14:25:56.906 microCenterPages.HomePage - hoverOver Products button success
+14:25:57.074 microCenterPages.HomePage - click on OnBrands button success
+14:25:58.523 microCenterPages.HomePage - click on Acer Brand success
+14:26:05.820 microCenterPages.HomePage - click on StorePopUp success
+14:26:06.012 microCenterPages.HomePage - hoverOver Products button success
+14:26:06.139 microCenterPages.HomePage - click on OnBrands button success
+14:26:07.345 microCenterPages.HomePage - click on Brother Brand success
+14:26:14.422 microCenterPages.HomePage - click on StorePopUp success
+14:26:14.890 microCenterPages.HomePage - hoverOver Products button success
+14:26:15.028 microCenterPages.HomePage - click on OnBrands button success
+14:26:19.305 microCenterPages.HomePage - click on Invidia Brand success
+14:26:22.506 base.CommonAPI - Screenshot captured
+14:26:29.947 microCenterPages.HomePage - click on StorePopUp success
+14:26:30.317 microCenterPages.HomePage - hoverOver Products button success
+14:26:30.410 microCenterPages.HomePage - click on OnBrands button success
+14:26:31.606 microCenterPages.HomePage - click on Samsung Brand success
+14:26:38.936 microCenterPages.HomePage - click on StorePopUp success
+14:26:39.075 microCenterPages.HomePage - hoverOver Products button success
+14:26:39.158 microCenterPages.HomePage - click on OnBrands button success
+14:26:41.286 base.CommonAPI - Screenshot captured
+14:28:16.294 microCenterPages.HomePage - click on StorePopUp success
+14:28:16.524 microCenterPages.HomePage - hoverOver Products button success
+14:28:16.599 microCenterPages.HomePage - click on OnBrands button success
+14:28:19.515 base.CommonAPI - Screenshot captured
+14:30:26.274 microCenterPages.HomePage - click on StorePopUp success
+14:30:26.571 microCenterPages.HomePage - hoverOver Products button success
+14:30:26.696 microCenterPages.HomePage - click on OnBrands button success
+14:30:28.051 microCenterPages.HomePage - click on dell Brand success
+14:31:10.001 microCenterPages.HomePage - click on StorePopUp success
+14:31:10.364 microCenterPages.HomePage - hoverOver Products button success
+14:31:10.566 microCenterPages.HomePage -  hoverOver Clearance button success
+14:31:13.695 microCenterPages.HomePage - click on AppleOpenBoxItems button success
+14:31:15.129 base.CommonAPI - Screenshot captured
+14:31:22.407 microCenterPages.HomePage - click on StorePopUp success
+14:31:22.720 microCenterPages.HomePage - hoverOver Products button success
+14:31:22.864 microCenterPages.HomePage -  hoverOver Clearance button success
+14:31:26.405 microCenterPages.HomePage - click on ComputerOpenBoxItems button success
+14:31:27.301 base.CommonAPI - Screenshot captured
+14:31:37.441 microCenterPages.HomePage - click on StorePopUp success
+14:31:37.696 microCenterPages.HomePage - hoverOver Products button success
+14:31:37.848 microCenterPages.HomePage -  hoverOver Clearance button success
+14:31:41.526 microCenterPages.HomePage - click on NetworkingOpenBoxItems button success
+14:31:42.652 base.CommonAPI - Screenshot captured
+14:31:49.700 microCenterPages.HomePage - click on StorePopUp success
+14:31:50.194 microCenterPages.HomePage - hoverOver Products button success
+14:31:50.336 microCenterPages.HomePage -  hoverOver Clearance button success
+14:31:51.304 microCenterPages.HomePage - click on ViewAllOpenBoxItems button success
+14:34:41.407 microCenterPages.HomePage -  Scroll Down To View success
+14:34:41.414 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:34:43.600 microCenterPages.HomePage - click on StoreLocations button success
+14:34:47.618 base.CommonAPI - Screenshot captured
+14:40:11.776 microCenterPages.HomePage -  Scroll Down To View success
+14:40:11.784 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:40:13.332 microCenterPages.HomePage - click on StoreLocations button success
+14:40:17.699 base.CommonAPI - Screenshot captured
+14:40:26.148 microCenterPages.HomePage -  Scroll Down To View success
+14:40:26.149 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:40:27.661 microCenterPages.HomePage - click on StoreLocations button success
+14:40:35.107 microCenterPages.HomePage -  Scroll Down To View success
+14:40:35.110 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:40:37.428 microCenterPages.HomePage - click on StoreLocations button success
+14:40:41.723 base.CommonAPI - Screenshot captured
+14:40:56.997 microCenterPages.HomePage -  Scroll Down To View success
+14:40:56.999 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:40:58.203 microCenterPages.HomePage - click on StoreLocations button success
+14:41:01.003 microCenterPages.StoreLocationsPage -  click on QueensLocations button success
+14:41:23.656 microCenterPages.HomePage -  Scroll Down To View success
+14:41:23.672 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:41:26.335 microCenterPages.HomePage - click on StoreLocations button success
+14:41:31.214 base.CommonAPI - Screenshot captured
+14:41:39.407 microCenterPages.HomePage -  Scroll Down To View success
+14:41:39.408 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:41:41.294 microCenterPages.HomePage - click on StoreLocations button success
+14:41:48.122 microCenterPages.HomePage -  Scroll Down To View success
+14:41:48.122 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:41:50.163 microCenterPages.HomePage - click on StoreLocations button success
+14:41:56.896 microCenterPages.StoreLocationsPage -  click on virginiaLocations button success
+14:42:03.802 microCenterPages.HomePage -  Scroll Down To View success
+14:42:03.802 microCenterPages.HomePage - scrollToViewStoreLocations button success
+14:42:06.052 microCenterPages.HomePage - click on StoreLocations button success
+14:42:08.660 microCenterPages.StoreLocationsPage -  click on QueensLocations button success
+14:43:29.801 microCenterPages.HomePage -  Scroll Down To View success
+14:43:29.806 microCenterPages.HomePage -  Scroll Down To View success
+14:43:30.122 microCenterPages.HomePage - click on YotubeB button success
+14:44:06.479 microCenterPages.HomePage -  Scroll Down To View success
+14:44:06.484 microCenterPages.HomePage -  Scroll Down To View success
+14:44:06.930 microCenterPages.HomePage - click on YotubeB button success
+14:52:57.516 microCenterPages.HomePage -  Scroll Down To View success
+14:52:57.524 microCenterPages.HomePage -  Scroll Down To View success
+14:52:57.736 microCenterPages.HomePage - click on YotubeB button success
+14:54:01.011 microCenterPages.HomePage -  Scroll Down To View success
+14:54:01.017 microCenterPages.HomePage -  Scroll Down To View success
+14:54:01.504 microCenterPages.HomePage - click on YotubeB button success
+15:23:57.712 microCenterPages.HomePage -  Scroll Down To View success
+15:23:57.717 microCenterPages.HomePage -  Scroll Down To View success
+15:23:58.218 microCenterPages.HomePage - click on YotubeB button success
