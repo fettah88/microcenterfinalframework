@@ -26,8 +26,8 @@ public class StoreLocationsTest extends CommonAPI {
         StoreLocationsPage storeLocationsPage = new StoreLocationsPage(getDriver());
         homePage.scrollToViewStoreLocationsBtn(getDriver());
         homePage.clickOnStoreLocationsBtn();
-        storeLocationsPage.clickOnQueensLocations();
-        String expectedPageTitle = "Computer Store in Flushing, NY - Micro Center";
+        storeLocationsPage.scrollToViewQueensLocations(getDriver());
+        String expectedPageTitle = "Store Locations for Micro Center";
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
 
     }
@@ -37,8 +37,8 @@ public class StoreLocationsTest extends CommonAPI {
         StoreLocationsPage storeLocationsPage = new StoreLocationsPage(getDriver());
         homePage.scrollToViewStoreLocationsBtn(getDriver());
         homePage.clickOnStoreLocationsBtn();
-        storeLocationsPage.clickOnNewJerseyLocations();
-        String expectedPageTitle = "Computer Store in North Jersey, NJ - Micro Center";
+        storeLocationsPage.scrollToViewNewJerseyLocations(getDriver());
+        String expectedPageTitle = "Store Locations for Micro Center";
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
     }
     @Test
@@ -47,8 +47,8 @@ public class StoreLocationsTest extends CommonAPI {
         StoreLocationsPage storeLocationsPage = new StoreLocationsPage(getDriver());
         homePage.scrollToViewStoreLocationsBtn(getDriver());
         homePage.clickOnStoreLocationsBtn();
-        storeLocationsPage.clickOnvirginiaLocations();
-        String expectedPageTitle = "Computer Store in Fairfax, VA - Micro Center";
+        storeLocationsPage.scrollToViewvirginiaLocations(getDriver());
+        String expectedPageTitle = "Store Locations for Micro Center";
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
 
 

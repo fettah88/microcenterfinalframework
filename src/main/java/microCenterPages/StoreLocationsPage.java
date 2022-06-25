@@ -1,6 +1,7 @@
 package microCenterPages;
 
 import base.CommonAPI;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -23,17 +24,24 @@ public class StoreLocationsPage extends CommonAPI {
 
         PageFactory.initElements(driver, this);
     }
-    public void clickOnQueensLocations() {
-        click(QueensLocations);
-        LOG.info(" click on QueensLocations button success");
+
+    public void ScrollToView(WebElement element, WebDriver driver) {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].scrollIntoView(true);", element);
+        LOG.info(" Scroll Down To View success");
 
     }
-    public void clickOnNewJerseyLocations() {
-        click(NewJerseyLocations);
-        LOG.info(" click on NewJerseyLocations button success");
+        public void scrollToViewNewJerseyLocations (WebDriver driver){
+            ScrollToView(NewJerseyLocations, driver);
+            LOG.info("scroll To View scrollToView NewJersey Locations success");
+        }
+    public void scrollToViewQueensLocations (WebDriver driver){
+        ScrollToView(NewJerseyLocations, driver);
+        LOG.info("scroll To View scrollToView Queens Locations success");
     }
-    public void clickOnvirginiaLocations() {
-        click(virginiaLocations);
-        LOG.info(" click on virginiaLocations button success");
+    public void scrollToViewvirginiaLocations (WebDriver driver){
+        ScrollToView(NewJerseyLocations, driver);
+        LOG.info("scroll To View scrollToView virginia Locations success");
+
+        }
     }
-}

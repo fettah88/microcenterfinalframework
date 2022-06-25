@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="microcenter smoke microcenter">
-    <parameter name="useCloudEnv" value="true"></parameter>
+    <parameter name="useCloudEnv" value="false"></parameter>
     <parameter name="envName" value="browserstack"></parameter>
     <parameter name="os" value="mac"></parameter>
     <parameter name="osVersion" value="11"></parameter>

@@ -1,6 +1,7 @@
 package microCenterPages;
 
 import base.CommonAPI;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.server.handler.SendKeys;
@@ -31,8 +32,8 @@ public class LoginPage extends CommonAPI {
     public LoginPage(WebDriver driver) {
 
         PageFactory.initElements(driver, this);
-    }
 
+    }
     public void typeOnEmailAdressField(String Text) {
         type(enterEmailAdress, Text);
         LOG.info("type in EmailAdressfield  success");

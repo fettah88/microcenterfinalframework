@@ -212,6 +212,9 @@ public class HomePage extends CommonAPI {
     @FindBy(css = "#midLvl18239")
     private WebElement DataBackupandRecoveryServices;
 
+    @FindBy(xpath = "//*[@id=\"home\"]")
+    private WebElement popup;
+
     @FindBy(xpath = "//*[@id=\"footerNav\"]/ul/li[3]/ul/li[4]/a")
     private WebElement careers;
     @FindBy(css = "#footerNav > ul > li.inline.topLvl.shopping > ul > li:nth-child(1) > a")
@@ -465,6 +468,10 @@ public class HomePage extends CommonAPI {
     public void clickOnViewAllCloseouts() {
         click(ViewAllCloseouts);
         LOG.info("click on ViewAllCloseouts button success");
+    }
+        public void clickOnpopupbtn() {
+            click(ViewAllCloseouts);
+            LOG.info("click on popup button success");
     }
     public void clickOnAccessoriesItemsBtn() {
         click(AccessoriesItems);
