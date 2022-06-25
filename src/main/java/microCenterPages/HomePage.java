@@ -254,7 +254,7 @@ public class HomePage extends CommonAPI {
     //reusable steps
     public void hoverOverLogingBtn(WebDriver driver) {
         hoverOver(driver, LogingBtn);
-        LOG.info("click click On hoverOverLoging button success");
+        LOG.info("click click On hover Over Loging button success");
     }
 
     public void clickOnAcountBtn() {

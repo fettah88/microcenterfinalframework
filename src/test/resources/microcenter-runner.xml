@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="microcenter smoke microcenter">
-    <parameter name="useCloudEnv" value="false"></parameter>
+    <parameter name="useCloudEnv" value="true"></parameter>
     <parameter name="envName" value="browserstack"></parameter>
     <parameter name="os" value="mac"></parameter>
     <parameter name="osVersion" value="11"></parameter>
@@ -10,66 +10,66 @@
     <parameter name="browserVersion" value="99"></parameter>
     <parameter name="url" value="https://www.microcenter.com/"></parameter>
 
-<!--    <test name="AppleItems microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.AppleItemsSearchTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="AppleItems microcenter">
+        <classes>
+            <class name="microcenter.AppleItemsSearchTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="loginPage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.LogingTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="loginPage microcenter">
+        <classes>
+            <class name="microcenter.LogingTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="singinPge microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.CreatAccountTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="singinPge microcenter">
+        <classes>
+            <class name="microcenter.CreatAccountTest"></class>
+        </classes>
+    </test>
 
-<!--        <test name="TopDesls microcenter">-->
-<!--            <classes>-->
-<!--                <class name="microcenter.TopDealsItemsTest"></class>-->
-<!--            </classes>-->
-<!--        </test>-->
+        <test name="TopDesls microcenter">
+            <classes>
+                <class name="microcenter.TopDealsItemsTest"></class>
+            </classes>
+        </test>
 
-<!--            <test name="Brands microcenter">-->
-<!--                <classes>-->
-<!--                    <class name="microcenter.AvailableBrandsTest"></class>-->
-<!--                </classes>-->
-<!--            </test>-->
+            <test name="Brands microcenter">
+                <classes>
+                    <class name="microcenter.AvailableBrandsTest"></class>
+                </classes>
+            </test>
 
 
-<!--    <test name="community microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.darkModeTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="community microcenter">
+        <classes>
+            <class name="microcenter.darkModeTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="ScrolToView microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.pupilarCatigoriesTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="ScrolToView microcenter">
+        <classes>
+            <class name="microcenter.pupilarCatigoriesTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="MicroCenterInstagramPage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.instagramBtnTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="MicroCenterInstagramPage microcenter">
+        <classes>
+            <class name="microcenter.instagramBtnTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="MicroCenterfacebookPage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.facebookBtnTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="MicroCenterfacebookPage microcenter">
+        <classes>
+            <class name="microcenter.facebookBtnTest"></class>
+        </classes>
+    </test>
 
-<!--        <test name="MicroCentertwitterPage microcenter ">-->
-<!--            <classes>-->
-<!--                <class name="microcenter.twitterBtnTest"></class>-->
-<!--            </classes>-->
-<!--        </test>-->
+        <test name="MicroCentertwitterPage microcenter ">
+            <classes>
+                <class name="microcenter.twitterBtnTest"></class>
+            </classes>
+        </test>
 
     <test name="MicroCenterYoutubePage microcenter">
         <classes>
@@ -77,65 +77,65 @@
         </classes>
     </test>
 
-<!--            <test name="NetworkingPage microcenter">-->
-<!--                <classes>-->
-<!--                    <class name="microcenter.NetworkingItemsTest"></class>-->
-<!--                </classes>-->
-<!--            </test>-->
+            <test name="NetworkingPage microcenter">
+                <classes>
+                    <class name="microcenter.NetworkingItemsTest"></class>
+                </classes>
+            </test>
 
-<!--    <test name="ClearancePage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.CloseoutItemsTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="ClearancePage microcenter">
+        <classes>
+            <class name="microcenter.CloseoutItemsTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="OpenBoxPage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.OpenBoxItemsTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="OpenBoxPage microcenter">
+        <classes>
+            <class name="microcenter.OpenBoxItemsTest"></class>
+        </classes>
+    </test>
 
-<!--        <test name="SearchBarPage microcenter">-->
-<!--            <classes>-->
-<!--                <class name="microcenter.SearchTest"></class>-->
-<!--            </classes>-->
-<!--        </test>-->
+        <test name="SearchBarPage microcenter">
+            <classes>
+                <class name="microcenter.SearchTest"></class>
+            </classes>
+        </test>
 
-<!--    <test name="ServiceRepairePage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.ServiceRepairTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="ServiceRepairePage microcenter">
+        <classes>
+            <class name="microcenter.ServiceRepairTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="StoreLocation microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.StoreLocationsTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="StoreLocation microcenter">
+        <classes>
+            <class name="microcenter.StoreLocationsTest"></class>
+        </classes>
+    </test>
 
-<!--    <test name="CareerPage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.ScrollDownToCareersTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="CareerPage microcenter">
+        <classes>
+            <class name="microcenter.ScrollDownToCareersTest"></class>
+        </classes>
+    </test>
 
-<!--        <test name="PcPartsPage microcenter">-->
-<!--            <classes>-->
-<!--                <class name="microcenter.PcPartItemsTest"></class>-->
-<!--            </classes>-->
-<!--        </test>-->
+        <test name="PcPartsPage microcenter">
+            <classes>
+                <class name="microcenter.PcPartItemsTest"></class>
+            </classes>
+        </test>
 
-<!--            <test name="CartPage microcenter">-->
-<!--                <classes>-->
-<!--                    <class name="microcenter.Cart_ListsTest"></class>-->
-<!--                </classes>-->
-<!--            </test>-->
+            <test name="CartPage microcenter">
+                <classes>
+                    <class name="microcenter.Cart_ListsTest"></class>
+                </classes>
+            </test>
 
-<!--    <test name="ComputerItemsPage microcenter">-->
-<!--        <classes>-->
-<!--            <class name="microcenter.ComputerItemsTest"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="ComputerItemsPage microcenter">
+        <classes>
+            <class name="microcenter.ComputerItemsTest"></class>
+        </classes>
+    </test>
 
 
 </suite>

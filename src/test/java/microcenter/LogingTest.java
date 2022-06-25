@@ -67,7 +67,7 @@ public class LogingTest extends CommonAPI {
         loginPage.typeOnPassWordField("1234abcD");
         loginPage.clickSigninBtn();
         String text = loginPage.getInvalidusernamOrPassWordText();
-        Assert.assertEquals("nvalid username or password.", text);
+        Assert.assertEquals("Email Address is Required", text);
     }
 
     @Test

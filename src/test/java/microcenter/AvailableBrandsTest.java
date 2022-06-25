@@ -12,7 +12,7 @@ public class AvailableBrandsTest extends CommonAPI {
 
     private final Logger LOG = LoggerFactory.getLogger(AvailableBrandsTest.class);
 
-   // @Test
+    @Test
     public void ViewAllAvailableBrands() {
         HomePage homePage = new HomePage(getDriver());
         BrandsPage BrandPage = new BrandsPage (getDriver());
@@ -24,7 +24,7 @@ public class AvailableBrandsTest extends CommonAPI {
 
 
     }
-   //  @Test
+     @Test
     public void search_Acer_Brand() {
         HomePage homePage = new HomePage(getDriver());
         BrandsPage BrandPage = new BrandsPage (getDriver());
@@ -37,7 +37,7 @@ public class AvailableBrandsTest extends CommonAPI {
 
 
     }
-   //  @Test
+     @Test
     public void search_AMD_Brand() {
         HomePage homePage = new HomePage(getDriver());
         BrandsPage BrandPage = new BrandsPage (getDriver());
@@ -49,7 +49,7 @@ public class AvailableBrandsTest extends CommonAPI {
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
 
     }
-   //  @Test
+     @Test
     public void search_Brother_Brand() {
         HomePage homePage = new HomePage(getDriver());
         BrandsPage BrandPage = new BrandsPage (getDriver());
@@ -60,7 +60,7 @@ public class AvailableBrandsTest extends CommonAPI {
         String expectedPageTitle = "Brother Store | Micro Center";
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
     }
-  //  @Test
+    @Test
     public void search_INVIDIA_Brand() {
         HomePage homePage = new HomePage(getDriver());
         BrandsPage BrandPage = new BrandsPage (getDriver());
@@ -73,7 +73,7 @@ public class AvailableBrandsTest extends CommonAPI {
 
     }
 
-    // @Test
+     @Test
     public void search_Samsung_Brand() {
          HomePage homePage = new HomePage(getDriver());
         BrandsPage BrandPage = new BrandsPage (getDriver());

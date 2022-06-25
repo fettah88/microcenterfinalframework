@@ -16,7 +16,7 @@ public class SearchTest extends CommonAPI {
 
     private final Logger LOG = LoggerFactory.getLogger(SearchTest.class);
 
-   // @Test
+    @Test
     public void searchiPhone11ProMax() {
         HomePage homePage = new HomePage(getDriver());
         SearchBarPage searchBarPage = new SearchBarPage(getDriver());
@@ -27,7 +27,7 @@ public class SearchTest extends CommonAPI {
         Assert.assertEquals(getPageTitle(), expectedPageTitle);
 
     }
-    // @Test
+     @Test
         public void searchPhilipsSmartLedTv() {
             HomePage homePage = new HomePage(getDriver());
         SearchBarPage searchBarPage = new SearchBarPage(getDriver());
@@ -38,7 +38,7 @@ public class SearchTest extends CommonAPI {
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
 
         }
-       // @Test
+        @Test
 
     public void searchAppleWatch() {
         HomePage homePage = new HomePage(getDriver());
@@ -49,7 +49,7 @@ public class SearchTest extends CommonAPI {
         String expectedPageTitle = "AppleWatch : Micro Center";
         Assert.assertEquals(getPageTitle(),expectedPageTitle);
     }
-      //@Test
+      @Test
     public void searchGamingChair() {
         HomePage homePage = new HomePage(getDriver());
         SearchBarPage searchBarPage = new SearchBarPage(getDriver());
